@@ -43,4 +43,12 @@ Or you can direct install to terminal:
 
 # Interface
 
-![diabetist](diapredict/static/images/dia.jpg)
+![diabetist](diapredict/static/images/ui.png)
+
+# Let's get Started
+Put all your information and test it.
+
+![diapredict](diapredict/static/images/result.png)
+
+# Collaborations:
+I'm open for collaborations, please shoot me an email at robinignaciosky70@gmail.com
